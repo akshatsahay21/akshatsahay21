@@ -46,6 +46,7 @@ I build full-stack apps and layer intelligence on top of them.
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%236366F1.svg?style=flat-square&logo=buffer&logoColor=white)
 
 **AI / ML / Gen AI**
 
@@ -53,14 +54,16 @@ I build full-stack apps and layer intelligence on top of them.
 ![LangChain](https://img.shields.io/badge/LangChain-%2310B981.svg?style=flat-square&logo=chainlink&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-%236366F1.svg?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-%2310B981.svg?style=flat-square&logo=databricks&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-%236366F1.svg?style=flat-square&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%2310B981.svg?style=flat-square&logo=pinecone&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-%230097A7.svg?style=flat-square&logo=google&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**DevOps & Tools**
+**DevOps & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black)
@@ -85,7 +88,7 @@ I build full-stack apps and layer intelligence on top of them.
 
 ---
 
-
 <div align="center">
 <sub>built with intention, not a generator template</sub>
 </div>
+
